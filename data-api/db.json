@@ -1,0 +1,34 @@
+{
+  "pending": [
+    {
+      "id": "3fdd",
+      "task": "Play a match",
+      "description": "Not required"
+    }
+  ],
+  "progress": [
+    {
+      "id": "70bb",
+      "task": "Completed task",
+      "description": "Go on Morning Walk"
+    },
+    {
+      "id": "f4fe",
+      "task": "Create a post for LinkedIn",
+      "description": "Display your new project"
+    },
+    {
+      "id": "c284",
+      "task": "Test App",
+      "description": "Test the app works properly"
+    }
+  ],
+  "completed": [
+    {
+      "id": "664d",
+      "task": "Completed task",
+      "description": "Go on Morning Walk",
+      "date": "01/06/24, 10:15"
+    }
+  ]
+}
